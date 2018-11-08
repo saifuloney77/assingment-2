@@ -1,0 +1,118 @@
+body{}
+img{}
+/*----header----*/
+header{
+    width: 1200px;
+    margin: 0 auto;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+
+nav{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 50px 15px;
+    display: block;
+    color: #00BCD4;
+}
+nav ul li a:hover{}
+
+/*----banner----*/
+
+.feature-details{
+	margin: 0;
+}
+.features{
+    float: left;
+    width: 33%;
+    padding:15px;
+    box-sizing: border-box;
+}
+h2{
+	color: #1ee2fb;
+}
+p{
+    color: #b1a9a9;
+}
+
+/*----gallery----*/
+
+.gallery-section{
+	width: 1200px;
+	margin: 0 auto;
+}
+.heading{
+	padding: 40px;
+}
+h1{
+	margin: 0;
+	font-size: 50px;
+	text-transform:uppercase;
+	color: #257d88;
+	text-align: center;
+}
+.gallery{
+	width: 33.33%; 
+	float: left; 
+	padding: 10px; 
+	box-sizing: border-box;
+}
+img{
+	max-width: 100%;
+}
+
+/*----footer----*/
+
+footer{
+    width: 1200px;
+    margin: 0 auto;
+}
+.container1{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;}
+
+.logo1{
+    width: 20%;
+    float: left;
+}
+
+nav{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 50px 15px;
+    display: block;
+    color: #00BCD4;
+}
+nav ul li a:hover{}
